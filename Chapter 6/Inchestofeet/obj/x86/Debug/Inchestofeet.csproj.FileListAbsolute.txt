@@ -1,0 +1,4 @@
+C:\Users\eahscs\Desktop\Chapter-6\Chapter 6\Inchestofeet\bin\Debug\Inchestofeet.exe
+C:\Users\eahscs\Desktop\Chapter-6\Chapter 6\Inchestofeet\bin\Debug\Inchestofeet.pdb
+C:\Users\eahscs\Desktop\Chapter-6\Chapter 6\Inchestofeet\obj\x86\Debug\Inchestofeet.exe
+C:\Users\eahscs\Desktop\Chapter-6\Chapter 6\Inchestofeet\obj\x86\Debug\Inchestofeet.pdb
