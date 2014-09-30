@@ -1,0 +1,4 @@
+C:\Users\eahscs\Desktop\Chapter-6\Chapter 6\Monogram\bin\Debug\Monogram.exe
+C:\Users\eahscs\Desktop\Chapter-6\Chapter 6\Monogram\bin\Debug\Monogram.pdb
+C:\Users\eahscs\Desktop\Chapter-6\Chapter 6\Monogram\obj\x86\Debug\Monogram.exe
+C:\Users\eahscs\Desktop\Chapter-6\Chapter 6\Monogram\obj\x86\Debug\Monogram.pdb

@@ -5,6 +5,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter 6", "Chapter 6\Chap
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inchestofeet", "Inchestofeet\Inchestofeet.csproj", "{A26296A1-1D25-4E8E-8C65-A39D9F9EDC7F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monogram", "Monogram\Monogram.csproj", "{1ED7991F-C8D7-4E2C-8CA7-6B47D6A31736}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "X-Bone-It", "X-Bone-It\X-Bone-It.csproj", "{8F0B8B9A-2BDF-403D-A314-E3A1618D66BA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -19,6 +23,14 @@ Global
 		{A26296A1-1D25-4E8E-8C65-A39D9F9EDC7F}.Debug|x86.Build.0 = Debug|x86
 		{A26296A1-1D25-4E8E-8C65-A39D9F9EDC7F}.Release|x86.ActiveCfg = Release|x86
 		{A26296A1-1D25-4E8E-8C65-A39D9F9EDC7F}.Release|x86.Build.0 = Release|x86
+		{1ED7991F-C8D7-4E2C-8CA7-6B47D6A31736}.Debug|x86.ActiveCfg = Debug|x86
+		{1ED7991F-C8D7-4E2C-8CA7-6B47D6A31736}.Debug|x86.Build.0 = Debug|x86
+		{1ED7991F-C8D7-4E2C-8CA7-6B47D6A31736}.Release|x86.ActiveCfg = Release|x86
+		{1ED7991F-C8D7-4E2C-8CA7-6B47D6A31736}.Release|x86.Build.0 = Release|x86
+		{8F0B8B9A-2BDF-403D-A314-E3A1618D66BA}.Debug|x86.ActiveCfg = Debug|x86
+		{8F0B8B9A-2BDF-403D-A314-E3A1618D66BA}.Debug|x86.Build.0 = Debug|x86
+		{8F0B8B9A-2BDF-403D-A314-E3A1618D66BA}.Release|x86.ActiveCfg = Release|x86
+		{8F0B8B9A-2BDF-403D-A314-E3A1618D66BA}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
