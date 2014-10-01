@@ -1,0 +1,4 @@
+C:\Users\eahscs\Desktop\Chapter-6\Chapter 6\X-Bone-It\bin\Debug\X-Bone-It.exe
+C:\Users\eahscs\Desktop\Chapter-6\Chapter 6\X-Bone-It\bin\Debug\X-Bone-It.pdb
+C:\Users\eahscs\Desktop\Chapter-6\Chapter 6\X-Bone-It\obj\x86\Debug\X-Bone-It.exe
+C:\Users\eahscs\Desktop\Chapter-6\Chapter 6\X-Bone-It\obj\x86\Debug\X-Bone-It.pdb

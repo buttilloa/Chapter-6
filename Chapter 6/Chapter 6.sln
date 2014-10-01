@@ -9,6 +9,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monogram", "Monogram\Monogr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "X-Bone-It", "X-Bone-It\X-Bone-It.csproj", "{8F0B8B9A-2BDF-403D-A314-E3A1618D66BA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpongeBobSQUAREPants", "SpongeBobSQUAREPants\SpongeBobSQUAREPants.csproj", "{28B874E4-C69F-4A25-9CDF-33245DD31169}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse3", "Reverse3\Reverse3.csproj", "{3D0ACA6C-83A8-4718-A630-23FE89267ED2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse4", "Reverse4\Reverse4.csproj", "{484EBF36-C41D-4165-A9EE-E91F4813E606}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Area", "Area\Area.csproj", "{CD43865E-0B5F-4178-90DB-4145C441D22B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -31,6 +39,22 @@ Global
 		{8F0B8B9A-2BDF-403D-A314-E3A1618D66BA}.Debug|x86.Build.0 = Debug|x86
 		{8F0B8B9A-2BDF-403D-A314-E3A1618D66BA}.Release|x86.ActiveCfg = Release|x86
 		{8F0B8B9A-2BDF-403D-A314-E3A1618D66BA}.Release|x86.Build.0 = Release|x86
+		{28B874E4-C69F-4A25-9CDF-33245DD31169}.Debug|x86.ActiveCfg = Debug|x86
+		{28B874E4-C69F-4A25-9CDF-33245DD31169}.Debug|x86.Build.0 = Debug|x86
+		{28B874E4-C69F-4A25-9CDF-33245DD31169}.Release|x86.ActiveCfg = Release|x86
+		{28B874E4-C69F-4A25-9CDF-33245DD31169}.Release|x86.Build.0 = Release|x86
+		{3D0ACA6C-83A8-4718-A630-23FE89267ED2}.Debug|x86.ActiveCfg = Debug|x86
+		{3D0ACA6C-83A8-4718-A630-23FE89267ED2}.Debug|x86.Build.0 = Debug|x86
+		{3D0ACA6C-83A8-4718-A630-23FE89267ED2}.Release|x86.ActiveCfg = Release|x86
+		{3D0ACA6C-83A8-4718-A630-23FE89267ED2}.Release|x86.Build.0 = Release|x86
+		{484EBF36-C41D-4165-A9EE-E91F4813E606}.Debug|x86.ActiveCfg = Debug|x86
+		{484EBF36-C41D-4165-A9EE-E91F4813E606}.Debug|x86.Build.0 = Debug|x86
+		{484EBF36-C41D-4165-A9EE-E91F4813E606}.Release|x86.ActiveCfg = Release|x86
+		{484EBF36-C41D-4165-A9EE-E91F4813E606}.Release|x86.Build.0 = Release|x86
+		{CD43865E-0B5F-4178-90DB-4145C441D22B}.Debug|x86.ActiveCfg = Debug|x86
+		{CD43865E-0B5F-4178-90DB-4145C441D22B}.Debug|x86.Build.0 = Debug|x86
+		{CD43865E-0B5F-4178-90DB-4145C441D22B}.Release|x86.ActiveCfg = Release|x86
+		{CD43865E-0B5F-4178-90DB-4145C441D22B}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

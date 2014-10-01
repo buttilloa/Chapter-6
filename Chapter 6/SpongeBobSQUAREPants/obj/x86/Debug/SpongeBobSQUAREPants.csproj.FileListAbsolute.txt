@@ -1,0 +1,4 @@
+C:\Users\eahscs\Desktop\Chapter-6\Chapter 6\SpongeBobSQUAREPants\bin\Debug\SpongeBobSQUAREPants.exe
+C:\Users\eahscs\Desktop\Chapter-6\Chapter 6\SpongeBobSQUAREPants\bin\Debug\SpongeBobSQUAREPants.pdb
+C:\Users\eahscs\Desktop\Chapter-6\Chapter 6\SpongeBobSQUAREPants\obj\x86\Debug\SpongeBobSQUAREPants.exe
+C:\Users\eahscs\Desktop\Chapter-6\Chapter 6\SpongeBobSQUAREPants\obj\x86\Debug\SpongeBobSQUAREPants.pdb

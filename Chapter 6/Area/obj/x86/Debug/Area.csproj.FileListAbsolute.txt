@@ -1,0 +1,4 @@
+C:\Users\eahscs\Desktop\Chapter-6\Chapter 6\Area\bin\Debug\Area.exe
+C:\Users\eahscs\Desktop\Chapter-6\Chapter 6\Area\bin\Debug\Area.pdb
+C:\Users\eahscs\Desktop\Chapter-6\Chapter 6\Area\obj\x86\Debug\Area.exe
+C:\Users\eahscs\Desktop\Chapter-6\Chapter 6\Area\obj\x86\Debug\Area.pdb

@@ -1,0 +1,4 @@
+C:\Users\eahscs\Desktop\Chapter-6\Chapter 6\Reverse3\bin\Debug\Reverse3.exe
+C:\Users\eahscs\Desktop\Chapter-6\Chapter 6\Reverse3\bin\Debug\Reverse3.pdb
+C:\Users\eahscs\Desktop\Chapter-6\Chapter 6\Reverse3\obj\x86\Debug\Reverse3.exe
+C:\Users\eahscs\Desktop\Chapter-6\Chapter 6\Reverse3\obj\x86\Debug\Reverse3.pdb
